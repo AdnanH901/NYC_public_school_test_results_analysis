@@ -1,6 +1,5 @@
 # New York City Public School Test Results Analysis
-
-
+![NYC](https://github.com/user-attachments/assets/9e9e2b27-a34b-4c87-830f-d639e7b09a01)
 ## Project Overview:
 This project explores and analyses the SAT performances of multiple public high schools in New York City (NYC). The SAT (Scholastic Aptitude Test) is a standardised test predominantly used for college admissions. Test scores typically reflect a student's reading, writing and mathematics proficiency. This analysis aims to provide crucial insights for key stakeholders, such as teachers, parents and local governments in NYC.
 
@@ -32,3 +31,4 @@ The data that I will be using is from *DataCamp*. Here's the link to access the 
 ## Acknowledgments/References
 - [DataCamp](https://www.datacamp.com/) Project inspiration and location of dataset.
 - [Bus Picture](https://unsplash.com/photos/yellow-school-bus-hh1SXtaEFlI) By [Jannis Lucas](https://unsplash.com/@jannis_lucas) on [Unsplash](https://unsplash.com/).
+- [New York City Picture](https://unsplash.com/photos/aerial-view-of-city-buildings-during-nighttime-CR0E20Of7yU) By [Andre Benz](https://unsplash.com/@trapnation) on [Unsplash](https://unsplash.com/).
