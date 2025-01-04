@@ -31,4 +31,4 @@ The data that I will be using is from *DataCamp*. Here's the link to access the 
 ## Acknowledgments/References
 - [DataCamp](https://www.datacamp.com/) Project inspiration and location of dataset.
 - [Bus Picture](https://unsplash.com/photos/yellow-school-bus-hh1SXtaEFlI) By [Jannis Lucas](https://unsplash.com/@jannis_lucas) on [Unsplash](https://unsplash.com/).
-- [New York City Picture](https://unsplash.com/photos/aerial-view-of-city-buildings-during-nighttime-CR0E20Of7yU) By [Andre Benz](https://unsplash.com/@trapnation) on [Unsplash](https://unsplash.com/).
+- [NYC Picture](https://unsplash.com/photos/aerial-view-of-city-buildings-during-nighttime-CR0E20Of7yU) By [Andre Benz](https://unsplash.com/@trapnation) on [Unsplash](https://unsplash.com/).
