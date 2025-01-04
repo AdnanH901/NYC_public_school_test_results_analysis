@@ -7,14 +7,14 @@ This project explores and analyses the SAT performances of multiple public high 
 Here are some of the tools and resources used:
 - **Jupyter Notebook:** An open-source web application enabling one to share documents containing live code, equations, visualisations, and narrative text. I used it to create a report analysing New York City test results. Download **Anaconda** to access Jupyter Notebook https://www.anaconda.com/download.
 - **Python:** Within Jupyter Notebook, I used Python to generate the visualisations and live code seen in the report. The version that I used was 3.12.4.
-- **Latex**: $$\LaTeX$$ is a tool in Jupyter Notebook used to create mathematical expressions. They range from simple expressions such as $a^2+b^2=c^2$ to more complicated equations like the Schrödinger Equation
+- **Latex**: $$\LaTeX$$ is a tool in Jupyter Notebook used to create mathematical expressions. They range from simple expressions such as $a^2+b^2=c^2$ to more complicated equations like the Schrödinger Equation,
 <div align="center">
 
 $$i \hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left[ -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right] \Psi(\mathbf{r}, t)$$.
 </div>
 
 ## Python Packages Used 
-Here are all of the libraries needed to reproduce this project, they are all pre-downloaded in Jupyter Notebook. If you are using Python and they are not installed, then execute ```pip install [insert library here]```
+Here are all of the libraries needed to reproduce this project, they are all pre-downloaded in Jupyter Notebook. If you are using Python and they are not installed, then execute ```pip install [insert library here]```.
 
 - **Data Manipulation:**
   - ```Math```: A standard Python module that provides mathematical functions like trigonometric, logarithmic, and other basic operations.
